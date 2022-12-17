@@ -1,5 +1,4 @@
 # Keep Notes App
-![screenrecording (2)](https://user-images.githubusercontent.com/56469693/111135470-b6066280-85a2-11eb-820b-06b589e86e64.gif)
 
 [Use the App](https://keep-notesjs.netlify.app/)
 
@@ -19,6 +18,3 @@ This is a 'Google Keep App' Clone made with ReactJS.
 3. Changing the tag-assigned AFTER creating notes.
 4. Option to add image
 5. May be you can suggest more😆
-
-### PS: The design is inspired from @dribbble
-Design by : Nasir Uddin
